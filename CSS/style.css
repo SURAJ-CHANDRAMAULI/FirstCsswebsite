@@ -73,6 +73,23 @@ padding-right: 30px;
 background-color: #F0F8FF;
 }
 
+.javatext{
+  text-align: left;
+}
+
+
+.ooptext{
+  text-align: left;
+}
+
+.webtext{
+  text-align: right;
+}
+
+.datatext{
+  text-align: right;
+}
+
 
 
 a{
@@ -150,8 +167,8 @@ padding-bottom: 0;
 
 
 .oops{
-  height:25%;
-  width: 25%;
+  height:24%;
+  width: 24%;
   border-radius: 50%;
   float: left;
   margin-right:30px;
@@ -183,6 +200,13 @@ p{
   color: #40514E;
 }
 
+.skill-row{
+
+  margin-bottom: 40px;
+  padding-bottom: 50px;
+
+}
+
 
 
 
@@ -212,3 +236,4 @@ p{
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
